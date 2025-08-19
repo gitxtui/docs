@@ -19,30 +19,19 @@ Try answering these questions for your user in this page:
 
 ## What is it?
 
-Introduce your project, including what it does or lets you do, why you would use
-it, and its primary goal (and how it achieves it). This should be similar to
-your README description, though you can go into a little more detail here if you
-want.
+GitX is a Terminal User Interface (TUI) helper designed to simplify the process of learning and using Git, the most widely used version control system (VCS). Instead of typing long and often confusing commands, GitX presents a more guided and interactive interface that helps beginners understand Git concepts while still working inside the terminal. It is especially useful for students, new developers, or anyone who wants to strengthen their Git fundamentals by not only providing an easy access to all the git functions but also educating about doing all the said exercises manually. 
 
 ## Why do I want it?
 
-Help your user know if your project will help them. Useful information can
-include:
+This tool significantly boosts your knowledge on the integration and working of `git` and `github` (NOT THE SAME THING) and for seasoned users, provides an efficient way to navigate through the respective functions.
 
-- **What is it good for?**: What types of problems does your project solve? What
-  are the benefits of using it?
+## Disclaimer:
 
-- **What is it not good for?**: For example, point out situations that might
-  intuitively seem suited for your project, but aren't for some reason. Also
-  mention known limitations, scaling issues, or anything else that might let
-  your users know if the project is not for them.
-
-- **What is it _not yet_ good for?**: Highlight any useful features that are
-  coming soon.
+Although `gitx` provides an easier and more efficient way to access all the functions with simple keystrokes. It is still not recommended for beginners who are looking for a way-around those functions, this documentation involves theoretical explanation of each and every function who's knowledge will be necessary before they're used in the professional world. 
 
 ## Where should I go next?
 
 Give your users next steps from the Overview. For example:
 
-- [Getting Started](/docs/getting-started/): Get started with $project
+- [Getting Started](/docs/getting-started/): Get started with GITx
 - [Examples](/docs/examples/): Check out some example code!

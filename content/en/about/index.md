@@ -1,10 +1,17 @@
 ---
-title: About Goldydocs
+title: About gitx
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{< blocks/cover 
+    title="About GITx" 
+    image="featured-background.png" 
+    image_anchor="center" 
+    height="full"
+>}}
+
+<!-- Set the height factor to "max" for the desired outcome of the page. -->
 
 A sample site using the Docsy Hugo theme.
 {.mt-5}

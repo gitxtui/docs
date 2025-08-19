@@ -1,6 +1,14 @@
-/*
+:root {
+  --bg-color: #fff;
+  --text-color: #000;
+}
 
-Add styles or override variables from the theme here.
+body {
+  background: var(--bg-color);
+  color: var(--text-color);
+}
 
-*/
-
+body.dark-mode {
+  --bg-color: #111;
+  --text-color: #fff;
+}

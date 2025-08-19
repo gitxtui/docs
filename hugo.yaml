@@ -46,7 +46,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Goldydocs
+    title: GITx
     params:
       description: A Docsy example site
   # cSpell:disable
@@ -150,6 +150,7 @@ params:
 
   # User interface configuration
   ui:
+    showLightDarkModeMenu: true
     # Set to true to disable breadcrumb navigation.
     breadcrumb_disable: false
     # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
