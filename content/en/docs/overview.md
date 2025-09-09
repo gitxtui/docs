@@ -4,11 +4,9 @@ description: Here's where your user finds out if your project is for them.
 weight: 1
 ---
 
-{{% pageinfo %}}
-
+<!-- {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
-
-{{% /pageinfo %}}
+{{% /pageinfo %}} -->
 
 The Overview is where your users find out about your project. Depending on the
 size of your docset, you can have a separate overview page (like this one) or
@@ -33,5 +31,5 @@ Although `gitx` provides an easier and more efficient way to access all the func
 
 Give your users next steps from the Overview. For example:
 
-- [Getting Started](/docs/getting-started/): Get started with GITx
-- [Examples](/docs/examples/): Check out some example code!
+- [Installation](/docs/docs/getting-started/installation): Install GITx
+- [Tutorials](/docs/docs/tutorials/): Check out some tutorials for git!

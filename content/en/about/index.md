@@ -14,7 +14,7 @@ menu: {main: {weight: 10}}
 
 <div class="mt-5 lead text-center">
     <p>
-        <strong>A sample site using the Docsy Hugo theme.</strong>
+        <strong>A Terminal User Interface for Git.</strong>
     </p>
 </div>
 
@@ -24,10 +24,8 @@ menu: {main: {weight: 10}}
 {{% blocks/lead %}}
 
 <div class="lead text-center">
-    Goldydocs is a sample site using the <a href="https://github.com/google/docsy">Docsy</a>
-    Hugo theme that shows what it can do and provides you with a template site structure.<br>
-    It’s designed for you to clone and edit as much as you like.<br>
-    <em>See the different sections of the documentation and site for more ideas.</em>
+    GITx is a TUI helper for learning and using Git, inspired by lazygit.<br>
+    It’s designed to be a helpful companion for both beginners and experienced Git users.
 </div>
 
 {{% /blocks/lead %}}
@@ -38,7 +36,7 @@ menu: {main: {weight: 10}}
 <h2 class="text-center mt-5">Discover More Features</h2>
 
 <p class="text-center">
-    Explore the documentation and learn how to customize your own Docsy-powered site.<br>
+    Explore the documentation and learn how to use GITx.<br>
     <a class="btn btn-primary mt-3" href="/docs/">Get Started</a>
 </p>
 
@@ -50,7 +48,7 @@ menu: {main: {weight: 10}}
 
 <p class="text-center">
     Contribute, ask questions, or share your experience with others.<br>
-    <a class="btn btn-secondary mt-3" href="https://github.com/google/docsy">Visit Docsy on GitHub</a>
+    <a class="btn btn-secondary mt-3" href="https://github.com/gitxtui/gitx">Visit GITx on GitHub</a>
 </p>
 
 {{% /blocks/section %}}
