@@ -8,7 +8,7 @@ weight: 2
 The easiest way to install `gitx` is by using the installation script. Open your terminal and run the following command:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/gitxtui/gitx/master/install.sh](https://raw.githubusercontent.com/gitxtui/gitx/master/install.sh) | bash
+curl -sSL https://raw.githubusercontent.com/gitxtui/gitx/master/install.sh | bash
 ```
 
 This script will automatically detect your operating system and architecture, download the latest release of gitx, and install it to /usr/local/bin.
