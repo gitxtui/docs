@@ -46,6 +46,7 @@ outputs:
   section: [HTML, print, RSS]
 
 params:
+  offlineSearch: true
   taxonomy:
     taxonomyCloud: [tags, categories]
     taxonomyCloudTitle: [Tag Cloud, Categories]
@@ -89,6 +90,12 @@ params:
         url: https://discord.com/invite/2KgPQpejGv
         icon: fab fa-discord
         desc: Join the community on Discord!
+
+menu:
+  main:
+    - name: Contribute
+      url: /contribute/
+      weight: 40
 
 module:
   hugoVersion:
