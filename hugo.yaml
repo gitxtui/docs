@@ -28,7 +28,7 @@ permalinks:
 imaging:
   resampleFilter: CatmullRom
   quality: 75
-  anchor: smart
+  anchor: Smart
 
 markup:
   goldmark:
