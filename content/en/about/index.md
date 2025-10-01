@@ -1,7 +1,7 @@
 ---
 title: About gitx
 linkTitle: About
-menu: {main: {weight: 10}}
+menu: {main: {weight: 20}}
 ---
 
 

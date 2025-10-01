@@ -91,11 +91,6 @@ params:
         icon: fab fa-discord
         desc: Join the community on Discord!
 
-menu:
-  main:
-    - name: Contribute
-      url: /contribute/
-      weight: 40
 
 module:
   hugoVersion:

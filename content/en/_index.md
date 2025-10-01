@@ -1,7 +1,6 @@
 ---
 title: GITx
 linkTitle: gitx
-# type: "docs"
 ---
 
 {{< blocks/cover title="Welcome to GITx" image_anchor="top" height="full" >}}

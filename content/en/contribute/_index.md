@@ -1,7 +1,8 @@
 ---
 title: "Contributing to GITx"
 linkTitle: "Contribute"
-weight: 40
+
+menu: {main: {weight: 30}}
 type: "docs"
 ---
 
