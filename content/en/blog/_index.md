@@ -1,6 +1,7 @@
 ---
 title: Blog
 menu: {main: {weight: 30}}
+type: "docs"
 ---
 
 This is the **blog** section.

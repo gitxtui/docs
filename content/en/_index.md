@@ -1,10 +1,11 @@
 ---
 title: GITx
-linkTitle: Docs
+linkTitle: gitx
+# type: "docs"
 ---
 
 {{< blocks/cover title="Welcome to GITx" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="./docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="./learn/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
