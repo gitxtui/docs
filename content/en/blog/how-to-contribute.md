@@ -151,6 +151,6 @@ If you have questions or need assistance:
 
 - Open an issue on the [gitxtui/docs](https://github.com/gitxtui/docs) repository
 - Join our [Discord community](https://discord.gg/DphdFXd3Bh)
-- Comment on the [blog contribution issue](https://github.com/gitxtui/docs/issues/)
+- Comment on the [blog contribution issue](https://github.com/gitxtui/docs/issues/13)
 
 We can't wait to read your contribution! Happy writing! ✍️
