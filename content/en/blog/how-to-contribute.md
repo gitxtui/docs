@@ -69,8 +69,9 @@ Now comes the fun part! Write your blog post using Markdown. Here are some forma
 
 **Headers:**
 ```markdown
-### Main Section
-### Subsection
+# Heading 1
+## Heading 2
+### Heading 3
 ```
 
 **Code Blocks:**
