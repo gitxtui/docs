@@ -1,5 +1,6 @@
 ---
 title: "How I Resolve Merge Conflicts Easily"
+linkTitle: "Resolving Merge Conflicts"
 author: "Vikas"
 date: 2025-10-02
 tags: ["git", "merge", "conflict"]
