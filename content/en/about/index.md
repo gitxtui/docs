@@ -4,10 +4,7 @@ linkTitle: About
 menu: { main: { weight: 20 } }
 ---
 
-{{< blocks/cover title="About GITx" image="featured-background.png"
-image_anchor="center" height="full"
-
-> }}
+{{< blocks/cover title="About GITx" image="featured-background.png" image_anchor="center" height="full" >}}
 
 <div class="mt-5 lead text-center">
     <p>
