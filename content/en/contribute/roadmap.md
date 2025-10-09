@@ -150,16 +150,17 @@ type: "docs"
     <li><strong>Basic TUI Structure:</strong> A foundational terminal user interface is in place, providing the core layout and panel management for the application.</li>
     <li><strong>Git Command Mapping:</strong> Essential Git commands are integrated into the TUI, allowing users to perform basic operations visually.</li>
     <li><strong>Theme Generation:</strong> The application can generate themes from a predefined set of color palettes, allowing for initial UI customization.</li>
+    <li><strong>Custom Theme Support:</strong> Implement a system for users to add their own themes via configuration files in the <code>.config</code> directory.</li>
+    <li><strong>Expanded Git Command Support:</strong> Integrate a wider range of Git commands to provide more comprehensive repository management capabilities.</li>
+    <li><strong>Bug Fixes:</strong> Address any outstanding bugs to improve stability and reliability.</li>
+    <li><strong>Command History and Logging:</strong> Allow the secondary panel to store all the git commands history and gitx logs.</li>
   </ul>
 </div>
 
 <div class="roadmap-section active">
   <h3>🚀 In Progress <span class="status-badge active">Active</span></h3>
   <ul>
-    <li><strong>Custom Theme Support:</strong> Implement a system for users to add their own themes via configuration files in the <code>.config</code> directory.</li>
-    <li><strong>Expanded Git Command Support:</strong> Integrate a wider range of Git commands to provide more comprehensive repository management capabilities.</li>
-    <li><strong>Bug Fixes:</strong> Address any outstanding bugs to improve stability and reliability.</li>
-    <li><strong>Command History and Logging:</strong> Allow the secondary panel to store all the git commands history and gitx logs.</li>
+    <li><strong>Items will be moved here soon from the planned section</strong>
   </ul>
 </div>
 
