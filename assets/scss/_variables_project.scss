@@ -12,3 +12,76 @@ body.dark-mode {
   --bg-color: #111;
   --text-color: #fff;
 }
+
+pre code {
+  display: block;
+  background-color: #272822; /* Monokai dark background */
+  color: #f8f8f2;
+  font-size: 0.9rem;
+  padding: 1em;
+  border-radius: 8px;
+  overflow-x: auto;
+  line-height: 1.5;
+}
+
+/* Keywords */
+code .k,
+code .kd,
+code .kn {
+  color: #66d9ef;
+}
+
+/* Strings */
+code .s,
+code .s1,
+code .s2 {
+  color: #e1d22c;
+}
+
+/* Functions */
+code .nf {
+  color: #cfff70;
+}
+
+/* Numbers */
+code .mi,
+code .m {
+  color: #ae81ff;
+}
+
+/* Comments */
+code .c,
+code .cm,
+code .c1 {
+  color: #75715e;
+  font-style: italic;
+}
+
+/* Operators and punctuation */
+code .o,
+code .p {
+  color: #f92672;
+}
+
+/* Tags (HTML, XML, etc.) */
+code .nt {
+  color: #f92672;
+}
+
+/* Attributes */
+code .na {
+  color: #a6e22e;
+}
+
+/* Class names */
+code .nc {
+  color: #fd971f;
+}
+
+/* Line numbers if enabled */
+pre {
+  counter-reset: line;
+}
+pre code {
+  white-space: pre;
+}
