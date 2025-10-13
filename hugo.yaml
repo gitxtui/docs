@@ -15,10 +15,10 @@ taxonomies:
   category: categories
 
 # Highlighting config
-pygmentsCodeFences: true
-pygmentsUseClasses: false
-pygmentsUseClassic: false
-pygmentsStyle: tango
+# pygmentsCodeFences: true
+# pygmentsUseClasses: false
+# pygmentsUseClassic: false
+# pygmentsStyle: tango
 
 # Configure how URLs look like per section.
 permalinks:
@@ -39,7 +39,8 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
-    style: tango
+    style: monokai
+    guessSyntax: true
 
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
