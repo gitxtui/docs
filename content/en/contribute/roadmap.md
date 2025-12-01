@@ -172,6 +172,7 @@ type: "docs"
     <li><strong>Improved Visual Diff Viewer:</strong> Enhance the diff viewer to provide a more intuitive and detailed representation of changes.</li>
     <li><strong>Interactive Staging:</strong> Allow users to stage and unstage individual lines or hunks of code directly from the visual diff viewer.</li>
     <li><strong>Merge Conflict Resolver:</strong> Build a tool to help users resolve merge conflicts from within the TUI.</li>
+    <li><strong>Custom Keybindings:</strong> Update config.toml logic to allow users to remap keys (currently hardcoded in keys.go).</li>
   </ul>
 </div>
 
