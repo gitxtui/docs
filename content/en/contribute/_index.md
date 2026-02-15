@@ -48,19 +48,19 @@ gitx is written in Go. You'll need Go installed on your system (version 1.21 or 
 3. Build the project to ensure everything is set up correctly:
 
     ```sh
-    make build
+    just build
     ```
 
 4. Run the tests:
 
     ```sh
-    make test
+    just test
     ```
 
 5. Run the project:
 
     ```sh
-    make run
+    just run
     ```
 
 ### Pull Request Process
