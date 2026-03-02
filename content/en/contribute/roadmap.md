@@ -154,6 +154,9 @@ type: "docs"
     <li><strong>Expanded Git Command Support:</strong> Integrate a wider range of Git commands to provide more comprehensive repository management capabilities.</li>
     <li><strong>Bug Fixes:</strong> Address any outstanding bugs to improve stability and reliability.</li>
     <li><strong>Command History and Logging:</strong> Allow the secondary panel to store all the git commands history and gitx logs.</li>
+    <li><strong>Repository Initialization:</strong> Add a feature that allows users to initialize a new Git repository in the current directory if one doesn't already exist.</li>
+    <li><strong>Safety Warnings:</strong> Implement a warning system to alert users when they are about to initialize a repository in a potentially problematic location.</li>
+    <li><strong>Custom Keybindings:</strong> Update config.toml logic to allow users to remap keys (currently hardcoded in keys.go).</li>
   </ul>
 </div>
 
@@ -167,12 +170,9 @@ type: "docs"
 <div class="roadmap-section planned">
   <h3>📋 Planned <span class="status-badge planned">Upcoming</span></h3>
   <ul>
-    <li><strong>Repository Initialization:</strong> Add a feature that allows users to initialize a new Git repository in the current directory if one doesn't already exist.</li>
-    <li><strong>Safety Warnings:</strong> Implement a warning system to alert users when they are about to initialize a repository in a potentially problematic location.</li>
     <li><strong>Improved Visual Diff Viewer:</strong> Enhance the diff viewer to provide a more intuitive and detailed representation of changes.</li>
     <li><strong>Interactive Staging:</strong> Allow users to stage and unstage individual lines or hunks of code directly from the visual diff viewer.</li>
     <li><strong>Merge Conflict Resolver:</strong> Build a tool to help users resolve merge conflicts from within the TUI.</li>
-    <li><strong>Custom Keybindings:</strong> Update config.toml logic to allow users to remap keys (currently hardcoded in keys.go).</li>
   </ul>
 </div>
 

@@ -1,5 +1,5 @@
 ---
-title: "Contributing to GITx"
+title: "Contributing to gitx"
 linkTitle: "Contribute"
 
 menu: {main: {weight: 30}}

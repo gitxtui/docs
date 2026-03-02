@@ -1,5 +1,5 @@
 baseURL: https://gitxtui.github.io/docs
-title: GITx
+title: gitx
 
 # Language settings
 contentDir: content/en
@@ -64,7 +64,8 @@ params:
   github_branch: master
 
   copyright:
-    authors: gitxtui | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    authors:
+      gitxtui | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
     from_year: 2025
 
   ui:
@@ -77,9 +78,13 @@ params:
     feedback:
       enable: true
       'yes': >-
-        Glad to hear it! Please <a href="https://github.com/gitxtui/gitx/issues/new">tell us how we can improve</a>.
+        Glad to hear it! Please <a
+        href="https://github.com/gitxtui/gitx/issues/new">tell us how we can
+        improve</a>.
       'no': >-
-        Sorry to hear that. Please <a href="https://github.com/gitxtui/gitx/issues/new">tell us how we can improve</a>.
+        Sorry to hear that. Please <a
+        href="https://github.com/gitxtui/gitx/issues/new">tell us how we can
+        improve</a>.
 
   links:
     developer:
@@ -91,7 +96,6 @@ params:
         url: https://discord.com/invite/2KgPQpejGv
         icon: fab fa-discord
         desc: Join the community on Discord!
-
 
 module:
   hugoVersion:

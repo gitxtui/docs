@@ -1,9 +1,9 @@
 ---
-title: GITx
+title: gitx
 linkTitle: gitx
 ---
 
-{{< blocks/cover title="Welcome to GITx" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welcome to gitx" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="./learn/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
@@ -16,14 +16,14 @@ linkTitle: gitx
 
 
 {{% blocks/lead color="primary" %}}
-GITx provides a single terminal UI providing visibility into your git workflow,
+gitx provides a single terminal UI providing visibility into your git workflow,
 and providing a guided experience to learning and using Git.
 {{% /blocks/lead %}}
 
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="Interactive Learning" %}}
-The GITx UI helps you visualize your git history and workflow.
+The gitx UI helps you visualize your git history and workflow.
 
 Please follow this space for updates!
 {{% /blocks/feature %}}
