@@ -1,12 +1,12 @@
 ---
-title: "How to Contribute a Blog Post to GITx Documentation"
+title: "How to Contribute a Blog Post to gitx Documentation"
 linkTitle: "Contributing Blog Posts"
 date: 2025-10-02
-description: "A step-by-step guide on how to write and submit your first blog post to the GITx documentation site."
+description: "A step-by-step guide on how to write and submit your first blog post to the gitx documentation site."
 author: "bakayu"
 ---
 
-Welcome to the GITx blog! We're excited to have you here and even more excited if you're thinking about contributing your own post. This guide will walk you through the entire process of creating and submitting a blog post to our documentation site.
+Welcome to the gitx blog! We're excited to have you here and even more excited if you're thinking about contributing your own post. This guide will walk you through the entire process of creating and submitting a blog post to our documentation site.
 
 ## What Should You Write About?
 
@@ -137,7 +137,7 @@ After you submit your PR:
 - Our team will review your submission
 - We may provide feedback or suggestions for improvement
 - Once everything looks good, we'll merge your post
-- Your contribution will be live on the GITx documentation site! 🎉
+- Your contribution will be live on the gitx documentation site! 🎉
 
 Tips for Great Blog Posts:
 
